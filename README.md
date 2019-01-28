@@ -1,4 +1,4 @@
-# AV_Mini_Game_Project
+# Mini_Metro_Like_Game
 
 # What is this Game :
 It's a game that lets the user builds a subway network based on a map he chooses.
